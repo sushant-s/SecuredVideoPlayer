@@ -1,0 +1,2 @@
+# SecuredVideoPlayer
+For web
